@@ -21,11 +21,7 @@ generator: "@tarslib/widdershins v4.0.30"
 
 # Labo05
 
-Base URLs:
-
-# Authentication
-
-# Default
+Base URLs: [http://localhost:3000](http://localhost:3000)
 
 ## GET Filter by pages
 
@@ -271,7 +267,4 @@ PUT /api/books/{isbn}/language
 |---|---|---|---|
 |200|[OK](https://tools.ietf.org/html/rfc7231#section-6.3.1)|none|Inline|
 
-### Responses Data Schema
-
-# Data Schema
 
